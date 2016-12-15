@@ -1,0 +1,11 @@
+div.div_register
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    
+    text-align: left;
+}
